@@ -1,0 +1,17 @@
+{
+  "name": "actividad_2_6_cheerio",
+  "version": "1.0.0",
+  "description": "Catálogo de libros con Express y Cheerio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "express": "^4.22.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
